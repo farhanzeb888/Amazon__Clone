@@ -1,5 +1,6 @@
 
 git checkout my-new-branch
+click this link (`https://github.com/farhanzeb888/Amazon__Clone/tree/my-new-branch`)
 ---
 # 🛒 Amazon Clone (HTML & CSS)
 
