@@ -1,3 +1,5 @@
+git checkout my-new-branch
+---
 # 🛒 Amazon Clone (HTML & CSS)
 
 This is a simple **Amazon Clone UI** built using only **HTML** and **CSS**.  
